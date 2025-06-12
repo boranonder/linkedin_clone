@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837258509766",
+    "project_id": "linkedin-clone-bfb98",
+    "storage_bucket": "linkedin-clone-bfb98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837258509766:android:139e30d54f371f7ebc46c7",
+        "android_client_info": {
+          "package_name": "com.example.linkedin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHhwDDAzZ_QsDuHqgk_a8K7JvWGnaIvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
